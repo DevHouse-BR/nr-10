@@ -1,0 +1,39 @@
+div#yt-login .yt-username input {
+	background: url(../../images/green/login_username_bg.png) 0 0 no-repeat;
+}
+
+div#yt-login .yt-password input {
+	background: url(../../images/green/login_password_bg.png) 0 0 no-repeat;
+}
+
+div#yt-login .yt-username input:hover, div#yt-login .yt-username input.sfhover {
+	background: url(../../images/green/login_username_bg_hover.png) 0 0 no-repeat;
+}
+
+div#yt-login .yt-password input:hover, div#yt-login .yt-password input.sfhover {
+	background: url(../../images/green/login_password_bg_hover.png) 0 0 no-repeat;
+}
+
+div#yt-login .yt-username input:focus, div#yt-login .yt-username input.sffocus  {
+	background: url(../../images/green/login_username_bg_hover.png) 0 0 no-repeat;
+}
+
+div#yt-login .yt-password input:focus, div#yt-login .yt-password input.sffocus  {
+	background: url(../../images/green/login_password_bg_hover.png) 0 0 no-repeat;
+}
+
+div#yt-login .yt-login-button button {
+	background: url(../../images/green/login_button.png) 0 0 no-repeat;
+}
+
+div#yt-login .yt-login-button button:hover {
+	background: url(../../images/green/login_button_hover.png) 0 0 no-repeat;
+}
+
+div#yt-logout .yt-logout-button button {
+	background: url(../../images/green/logout_button.png) 0 0 no-repeat;
+}
+
+div#yt-logout .yt-logout-button button:hover {
+	background: url(../../images/green/logout_button_hover.png) 0 0 no-repeat;
+}

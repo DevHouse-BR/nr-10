@@ -1,0 +1,109 @@
+/*
+ * YOOtheme CSS file
+ * @author yootheme.com
+ * @copyright Copyright (C) 2007 YOOtheme Ltd. & Co. KG. All rights reserved.
+ */ 
+
+/* layout */
+div#toppanel {
+	position: static;
+}
+
+div#styleswitcher a {
+	cursor: pointer;
+}
+
+div.wrapper .wrapper-br {
+	height: 470px;
+}
+
+div#middle .background {
+	overflow: visible;
+	height: 140px;
+}
+
+div#middle .layoutleft div#main {
+	padding: -10px 12px 0px 13px;
+}
+
+div#middle .layoutright div#main {
+	padding: 0px 9px 0px 12px;
+}
+
+/* menu */
+/* sub menu */
+div#submenu li.level2 {
+	display: inline;
+}
+
+body.red div#submenu li.sfhover a:link, body.red div#submenu li.sfhover a:visited, body.red div#submenu li.sfhover span { color: #000000; }
+body.blue div#submenu li.sfhover a:link, body.blue div#submenu li.sfhover a:visited, body.blue div#submenu li.sfhover span { color: #000000; }
+body.orange div#submenu li.sfhover a:link, body.orange div#submenu li.sfhover a:visited, body.orange div#submenu li.sfhover span { color: #000000; }
+body.green div#submenu li.sfhover a:link, body.green div#submenu li.sfhover a:visited, body.green div#submenu li.sfhover span { color: #000000; }
+body.lilac div#submenu li.sfhover a:link, body.lilac div#submenu li.sfhover a:visited, body.lilac div#submenu li.sfhover span { color: #000000; }
+body.black div#submenu li.sfhover a:link, body.black div#submenu li.sfhover a:visited, body.black div#submenu li.sfhover span { color: #000000; }
+body.beige div#submenu li.sfhover a:link, body.beige div#submenu li.sfhover a:visited, body.beige div#submenu li.sfhover span { color: #000000; }
+body.turquoise div#submenu li.sfhover a:link, body.turquoise div#submenu li.sfhover a:visited, body.turquoise div#submenu li.sfhover span { color: #000000; }
+body.violet div#submenu li.sfhover a:link, body.violet div#submenu li.sfhover a:visited, body.violet div#submenu li.sfhover span { color: #000000; }
+
+div#submenu li.sfhover a:hover { color: #000000; }
+
+body.red div#submenu li.sfhover a:hover { color: #000000; }
+body.blue div#submenu li.sfhover a:hover { color: #000000; }
+body.orange div#submenu li.sfhover a:hover { color: #000000; }
+body.green div#submenu li.sfhover a:hover { color: #000000; }
+body.lilac div#submenu li.sfhover a:hover { color: #000000; }
+body.black div#submenu li.sfhover a:hover { color: #000000; }
+body.beige div#submenu li.sfhover a:hover { color: #000000; }
+body.turquoise div#submenu li.sfhover a:hover { color: #000000; }
+body.violet div#submenu li.sfhover a:hover { color: #000000; }
+
+div#submenu li.level2 ul {
+	clear:both;
+}
+
+div#submenu li.sfhover li a {
+	display: inline;
+}
+
+#submenu li.sfhover ul {
+	background: url(../images/submenu_level3_bg_ie6.png) 0 100% repeat;
+}
+
+div#submenu li.sfhover ul ul {
+	background: url(../images/submenu_level3_bg_ie6.png) 0 100% repeat;
+}
+
+/* othermenu */
+#left div#othermenu li {
+	width: 158px;
+	overflow: hidden;
+}
+
+#left div#othermenu li.toggler {
+	overflow: visible;
+}
+
+#left div#othermenu li.active {
+	overflow: visible;
+}
+
+#left div#othermenu li.active a {
+	color: #646464;
+}
+
+/* module */
+
+/* joomla */
+div.search {
+	height: 18px;
+}
+
+/* extensions */
+div#yt-login {
+	width: auto;
+}
+
+div#yt-login .yt-lostpassword, div#yt-login .yt-registration {
+	line-height: 10px;
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- generator="FeedCreator 1.7.2" -->
+<feed version="0.3" xmlns="http://purl.org/atom/ns#">
+	<title>Joomla! powered Site</title>
+	<tagline>Joomla! site syndication</tagline>
+	<link rel="alternate" type="text/html" href="http://www.nr-10.com"/>
+	<id>http://www.nr-10.com</id>
+	<modified>2008-07-08T20:19:31+01:00</modified>
+	<generator>FeedCreator 1.7.2</generator>
+</feed>

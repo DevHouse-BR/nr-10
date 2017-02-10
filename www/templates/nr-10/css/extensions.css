@@ -1,0 +1,127 @@
+/*
+ * YOOtheme CSS file
+ * @author yootheme.com
+ * @copyright Copyright (C) 2007 YOOtheme Ltd. & Co. KG. All rights reserved.
+ */ 
+
+/* YOOLogin */
+div#yt-login {
+	width: 229px;
+}
+
+div#yt-login .yt-username, 
+div#yt-login .yt-password, 
+div#yt-login .yt-remember, 
+div#yt-login .yt-login-button {
+	float: left;
+}
+
+div#yt-login .yt-username, 
+div#yt-login .yt-password {
+	padding-right: 5px;
+}
+
+div#yt-login .yt-username input, div#yt-login .yt-password input {
+	width: 88px;
+	height: 14px;
+	padding: 2px 2px 2px 10px;
+	border: none;
+	float: left;
+	color: #646464;
+	font-size: 75%;
+}
+
+div#yt-login .yt-username input {
+	background: url(../images/login_username_bg.png) 0 0 no-repeat;
+}
+
+div#yt-login .yt-password input {
+	background: url(../images/login_password_bg.png) 0 0 no-repeat;
+}
+
+div#yt-login .yt-username input:hover, div#yt-login .yt-username input.sfhover {
+	background: url(../images/login_username_bg_hover.png) 0 0 no-repeat;
+	color: #000000;
+}
+
+div#yt-login .yt-password input:hover, div#yt-login .yt-password input.sfhover {
+	background: url(../images/login_password_bg_hover.png) 0 0 no-repeat;
+	color: #000000;
+}
+
+div#yt-login .yt-username input:focus, div#yt-login .yt-username input.sffocus  {
+	background: url(../images/login_username_bg_hover.png) 0 0 no-repeat;
+	color: #000000;
+}
+
+div#yt-login .yt-password input:focus, div#yt-login .yt-password input.sffocus  {
+	background: url(../images/login_password_bg_hover.png) 0 0 no-repeat;
+	color: #000000;
+}
+
+div#yt-login .yt-remember input {
+}
+
+div#yt-login .yt-login-button button {
+	display: block;
+	height: 18px;
+	width: 19px;
+	border: none;
+	background: url(../images/login_button.png) 0 0 no-repeat;
+	cursor: pointer;
+	overflow: hidden;
+}
+
+div#yt-login .yt-login-button button:hover {
+	background: url(../images/login_button_hover.png) 0 0 no-repeat;
+}
+
+div#yt-login .yt-break {
+	clear: both;
+}
+
+div#yt-login .yt-lostpassword, div#yt-login .yt-registration {
+	float: left;
+	font-size: 80%;
+	line-height: 20px;
+}
+
+div#yt-login .yt-lostpassword {
+	width: 100px;
+}
+
+div#yt-login .yt-registration {
+	width: 120px;
+}
+
+div#yt-login .yt-lostpassword {
+	padding: 0px 5px 0px 0px;
+}
+
+div#yt-logout .yt-greeting {
+	margin: 0px 5px 0px 0px;
+	float: left;
+}
+
+div#yt-logout .yt-logout-button {
+	height: 20px;
+	width: 60px;
+	float: left;
+}
+
+div#yt-logout .yt-logout-button button {
+	display: block;
+	height: 20px;
+	width: 60px;
+	padding: 0px 0px 2px 0px;
+	border: none;
+	background: url(../images/logout_button.png) 0 0 no-repeat;
+	font-size: 75%;
+	text-align: center;
+	cursor: pointer;
+	overflow: hidden;
+}
+
+div#yt-logout .yt-logout-button button:hover {
+	background: url(../images/logout_button_hover.png) 0 0 no-repeat;
+}

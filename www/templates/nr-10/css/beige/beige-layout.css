@@ -1,0 +1,39 @@
+body#page {
+	background: #a0875f url(../../images/beige/page_bg.png) 50% 0 repeat-x;
+}
+
+div.wrapper .wrapper-t {
+	background: #ffffff url(../../images/beige/wrapper_t.png) 0 0 repeat-x;
+}
+
+div.wrapper .wrapper-b {
+	background: url(../../images/beige/wrapper_b.png) 0 100% repeat-x;
+}
+
+div.wrapper .wrapper-l {
+	background: url(../../images/beige/wrapper_l.png) 0 0 repeat-y;
+}
+
+div.wrapper .wrapper-r {
+	background: url(../../images/beige/wrapper_r.png) 100% 0 repeat-y;
+}
+
+div.wrapper .wrapper-tl {
+	background: url(../../images/beige/wrapper_tl.png) 0 0 no-repeat;
+}
+
+div.wrapper .wrapper-tr {
+	background: url(../../images/beige/wrapper_tr.png) 100% 0 no-repeat;
+}
+
+div.wrapper .wrapper-bl {
+	background: url(../../images/beige/wrapper_bl.png) 0 100% no-repeat;
+}
+
+div.wrapper .wrapper-br {
+	background: url(../../images/beige/wrapper_br.png) 100% 100% no-repeat;
+}
+
+div#footer {
+	color: #ffffff;
+}

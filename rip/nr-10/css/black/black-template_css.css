@@ -1,0 +1,15 @@
+/*
+ * YOOtheme CSS file
+ *
+ * @author yootheme.com
+ * @copyright Copyright (C) 2007 YOOtheme Ltd. & Co. KG. All rights reserved.
+ */ 
+
+/* layout styling */
+@import url(black-layout.css);
+
+/* menu styling */
+@import url(black-menu.css);
+
+/* Third party extensions styling */
+@import url(black-extensions.css);

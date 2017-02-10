@@ -1,0 +1,7 @@
+div#topmenu li a {
+	background: url(../../images/red/topmenu_item_bg.png) 0 4px no-repeat;
+}
+
+div#topmenu a:link, div#topmenu a:visited, div#topmenu a:hover {
+	color: #ffffff;
+}
